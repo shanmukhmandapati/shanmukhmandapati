@@ -5,7 +5,7 @@
 
 ### Product & Project Manager · AI Builder · LLM Practitioner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmukhmandapati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/shanmukh-rao-mandapati-8a9033b/)]
 [![Email](https://img.shields.io/badge/Email-shanmukh.m.rao%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmukh.m.rao@gmail.com)
 [![PMP](https://img.shields.io/badge/Certified-PMP-00539C?style=for-the-badge&logo=pmi&logoColor=white)]()
 [![CSM](https://img.shields.io/badge/Certified-CSM-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white)]()
