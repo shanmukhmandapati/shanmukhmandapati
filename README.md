@@ -3,7 +3,7 @@
 
 # 👋 Hey, I'm Shanmukh Rao Mandapati
 
-### Product & Program Manager · AI Builder · LLM Practitioner
+### Product & Project Manager · AI Builder · LLM Practitioner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmukhmandapati)
 [![Email](https://img.shields.io/badge/Email-shanmukh.m.rao%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmukh.m.rao@gmail.com)
@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-I'm a **PM & Program Manager with 17+ years** delivering complex AI-driven SaaS products across global enterprise environments — and I actually *build* the tools I manage.
+I'm a **Product & Project Manager with 17+ years** delivering complex AI-driven SaaS products across global enterprise environments — and I actually *build* the tools I manage.
 
 - 🏢 Most recently **Product/Program Manager at Reputation.com** — led AI analytics platform driving ~20% ARR growth
 - 🤖 **Hands-on AI builder** — independently shipped production tools using GPT-4, Llama 3.3, n8n, and v0.dev
