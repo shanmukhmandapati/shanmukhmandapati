@@ -3,7 +3,7 @@
 
 # 👋 Hey, I'm Shanmukh Rao Mandapati
 
-### Senior Product & Program Manager · AI Builder · LLM Practitioner
+### Product & Program Manager · AI Builder · LLM Practitioner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmukhmandapati)
 [![Email](https://img.shields.io/badge/Email-shanmukh.m.rao%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmukh.m.rao@gmail.com)
@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-I'm a **Senior PM & Program Manager with 17+ years** delivering complex AI-driven SaaS products across global enterprise environments — and I actually *build* the tools I manage.
+I'm a **PM & Program Manager with 17+ years** delivering complex AI-driven SaaS products across global enterprise environments — and I actually *build* the tools I manage.
 
 - 🏢 Most recently **Product/Program Manager at Reputation.com** — led AI analytics platform driving ~20% ARR growth
 - 🤖 **Hands-on AI builder** — independently shipped production tools using GPT-4, Llama 3.3, n8n, and v0.dev
@@ -29,7 +29,7 @@ I'm a **Senior PM & Program Manager with 17+ years** delivering complex AI-drive
 ## 🚀 Featured AI Projects
 
 ### 🔍 [AI Candidate Screener](https://github.com/shanmukhmandapati/AI-Candidate-Screener)
-> *Built solo. No engineering team. No budget. Live in production.*
+> *Built solo. No engineering team. No budget.*
 
 An end-to-end AI-powered hiring tool where HR uploads a candidate list and gets back ranked profiles with match scores, skill gap analysis, and plain-English summaries — all automated.
 
@@ -67,7 +67,6 @@ An end-to-end AI-powered hiring tool where HR uploads a candidate list and gets 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
