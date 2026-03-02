@@ -18,7 +18,7 @@
 
 I'm a **Product & Project Manager with 17+ years** delivering complex AI-driven SaaS products across global enterprise environments — and I actually *build* the tools I manage.
 
-- 🏢 Most recently **Product/Program Manager at Reputation.com** — led AI analytics platform driving ~20% ARR growth
+- 🏢 Most recently **Product/Project Manager at Reputation.com** — led AI analytics platform driving ~20% ARR growth
 - 🤖 **Hands-on AI builder** — independently shipped production tools using GPT-4, Llama 3.3, n8n, and v0.dev
 - 📊 Deep experience with **LLMs, RAG, NLP, Agentic AI Workflows**, and enterprise SaaS delivery
 - 🎯 Known for translating complex AI capabilities into product value that customers and execs actually understand
@@ -29,7 +29,7 @@ I'm a **Product & Project Manager with 17+ years** delivering complex AI-driven 
 ## 🚀 Featured AI Projects
 
 ### 🔍 [AI Candidate Screener](https://github.com/shanmukhmandapati/AI-Candidate-Screener)
-> *Built solo. No engineering team. No budget.*
+> *Built solo. No engineering team. No budget. Live in production.*
 
 An end-to-end AI-powered hiring tool where HR uploads a candidate list and gets back ranked profiles with match scores, skill gap analysis, and plain-English summaries — all automated.
 
@@ -84,13 +84,18 @@ An end-to-end AI-powered hiring tool where HR uploads a candidate list and gets 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Shanmukh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanmukhmandapati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub followers](https://img.shields.io/github/followers/shanmukhmandapati?style=for-the-badge&logo=github&color=0D1117&labelColor=0D1117)](https://github.com/shanmukhmandapati?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/shanmukhmandapati?style=for-the-badge&logo=github&color=0D1117&labelColor=0D1117)](https://github.com/shanmukhmandapati)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhmandapati&layout=compact&theme=tokyonight&hide_border=true)
+| 📁 Repos | 🌟 Focus Areas |
+|----------|----------------|
+| [AI-Candidate-Screener](https://github.com/shanmukhmandapati/AI-Candidate-Screener) | LLM · GPT-4 · n8n · Vercel |
+| [Automate-Email-Reply](https://github.com/shanmukhmandapati/Automate-Email-Reply) | AI Automation · Workflows |
+| [astro-talk-web-application](https://github.com/shanmukhmandapati/astro-talk-web-application) | TypeScript · Full Stack |
 
 </div>
 
