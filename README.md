@@ -114,7 +114,7 @@ An end-to-end AI-powered hiring tool where HR uploads a candidate list and gets 
 I'm actively exploring **Senior PM / Head of Product / AI Product** roles — especially where AI, enterprise SaaS, and real delivery leadership intersect.
 
 📧 [shanmukh.m.rao@gmail.com](mailto:shanmukh.m.rao@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/shanmukhmandapati)
+🔗 [LinkedIn](https://www.linkedin.com/in/shanmukh-rao-mandapati-8a9033b/)
 
 ---
 
