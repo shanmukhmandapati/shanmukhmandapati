@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-shanmukh.m.rao%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmukh.m.rao@gmail.com)
 [![PMP](https://img.shields.io/badge/Certified-PMP-00539C?style=for-the-badge&logo=pmi&logoColor=white)]()
 [![CSM](https://img.shields.io/badge/Certified-CSM-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white)]()
-[![AI Product Manager](https://img.shields.io/badge/Certified-Agentic AI Product Management-2496ED?style=for-the-badge&logo=Maven&logoColor=white)]()
+[![AI Product Manager](https://img.shields.io/badge/Certified-Agentic%20AI%20Product%20Management-2496ED?style=for-the-badge&logo=Maven&logoColor=white)](https://maven.com/wrap-up/047df3e9)
 
 </div>
 
