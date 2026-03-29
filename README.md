@@ -20,7 +20,7 @@
 I'm a **Product & Project Manager with 17+ years** delivering complex AI-driven SaaS products across global enterprise environments — and I actually *build* the tools I manage.
 
 - 🏢 Most recently **Product/Project Manager at Reputation.com** — led AI analytics platform driving ~20% ARR growth
-- 🤖 **Hands-on AI builder** — independently shipped production tools using GPT-4, Llama 3.3, n8n, and v0.dev
+- 🤖 **Hands-on AI builder** — independently shipped production tools using GPT-4, Llama 3.3, n8n, v0.dev, Claude and Cursor
 - 📊 Deep experience with **LLMs, RAG, NLP, Agentic AI Workflows**, and enterprise SaaS delivery
 - 🎯 Known for translating complex AI capabilities into product value that customers and execs actually understand
 - 📍 Based in India · Open to global remote roles
